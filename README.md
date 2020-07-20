@@ -4,7 +4,7 @@ Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-A
 ### About Me:
 + I am a Second-Year Student at Walchand College of Engineering Sangli. 🏫
 + I am currently learning Full-Stack Web Development. 🌐
-+ I also am a Competitive Programmer. 💻
++ I'm also a Competitive Programmer. 💻
 + View my Blogs <a href="https://rising-entropy.github.io/">here</a>. 📖
 
 ### Hobbies:
@@ -12,14 +12,10 @@ Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-A
   Favourite Author: Sudha Murthy. 
   + Football ⚽<br>
   Favourite Club: Manchester City.
-  + Video Games 🎮<br>
-  Favourite Games: Horizon Zero Dawn / Uncharted Series / FIFA.
-  + Series 📺<br>
-  Favourite Shows: The Man in the High Castle / F.R.I.E.N.D.S.
-  + Movies 🎥<br>
-  Favourite Movies: The Pursuit of Happyness / Zindagi Na Milegi Dobaara / Your Name.
-  + Music 🎵<br>
-  One Direction / A.R. Rehmaan / Arijit Singh / Owl City / Coldplay.
+  + Video Games 🎮
+  + Series / Movies 📺
+  + Music 🎵 (I play the Guitar)
+  +Travel 🧭
   
 ### Skills:
   + C/C++.
