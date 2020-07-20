@@ -15,7 +15,7 @@ Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-A
   + Video Games 🎮
   + Series / Movies 📺
   + Music 🎵 (I play the Guitar)
-  +Travel 🧭
+  + Travel 🧭
   
 ### Skills:
   + C/C++.
