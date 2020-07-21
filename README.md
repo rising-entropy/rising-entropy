@@ -19,11 +19,8 @@ Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-A
   + Music 🎵 (I play the Guitar)
   + Travel 🧭
   
-### Skills:
-  + C/C++.
-  + Python.
-  + HTML/CSS + Bootstrap.
-  + Javascript + jQuery.
+### Skills:  
+<img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" width="45"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="50">  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="45">  <img src="https://image.flaticon.com/icons/svg/919/919827.svg" width="45">  <img src="https://image.flaticon.com/icons/svg/888/888847.svg" width="45">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" width="33">   <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width="48">
   
 🤝🏻 Let's Connect and Collaborate! 🤝🏻
 
