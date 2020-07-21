@@ -7,6 +7,8 @@ Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-A
 + I'm also a Competitive Programmer. 💻
 + View my Blogs <a href="https://rising-entropy.github.io/">here</a>. 📖
 
+<img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="220">
+
 ### Hobbies:
   + Reading. 📚<br>
   Favourite Author: Sudha Murthy. 
