@@ -31,3 +31,5 @@ Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-A
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rising-entropy&show_icons=true&hide_border=true)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/rising-entropy/)
+
