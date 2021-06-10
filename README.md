@@ -2,10 +2,10 @@
 Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-Affairs Buff.
 
 ### About Me:
-+ I am a Second-Year Student at Walchand College of Engineering Sangli. 🏫
-+ I am currently learning Full-Stack Web Development. 🌐
-+ I'm also a Competitive Programmer. 💻
-+ View my Blogs <a href="https://rising-entropy.github.io/">here</a>. 📖
++ I am a Second-Year Student at Walchand College of Engineering Sangli 🏫
++ I am currently learning Full-Stack Web Development 🌐
++ I'm also a Competitive Programmer 💻
++ View my Blogs <a href="https://rising-entropy.github.io/">here</a> 📖
 
 <img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="220">
 
