@@ -1,5 +1,5 @@
 ## 👨‍💻 Devang Kamble 👨‍💻
-Passionate Developer and Open-Source Geek. DSA enthusiast. History and Current-Affairs Buff.
+Passionate Developer and Open-Source Geek. DSA and Finance enthusiast. History and Current-Affairs Buff.
 
 ### About Me:
 + I am a Second-Year Student at Walchand College of Engineering Sangli 🏫
