@@ -11,7 +11,8 @@ Passionate Developer and Open-Source Geek. DSA and Finance enthusiast. History a
 
 ### Hobbies:
   + Reading. 📚<br>
-  Favourite Author: Sudha Murthy. <br>
+  Favourite Author: Sudha Murthy. <br> 
+  Current Read - Hunting for the Sky
   + Football ⚽<br>
   Favourite Club: Manchester City.
   + Video Games 🎮
