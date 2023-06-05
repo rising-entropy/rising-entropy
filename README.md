@@ -2,10 +2,8 @@
 Passionate Developer and Open-Source Geek. DSA and Finance enthusiast. History and Current-Affairs Buff.
 
 ### About Me:
-+ I am a Final-Year undergrad at Walchand College of Engineering Sangli 🏫
-+ I am currently learning Full-Stack Web Development 🌐
-+ I'm also a Competitive Programmer 💻
-+ View my Blogs <a href="https://rising-entropy.github.io/">here</a> 📖
++ Final-Year undergrad at Walchand College of Engineering Sangli 🏫
++ Full-Stack Developer - Webapps and Apps 🌐
 
 <img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="220">
 
