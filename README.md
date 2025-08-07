@@ -2,7 +2,8 @@
 Passionate Developer and Open-Source Geek. DSA and Finance enthusiast. History and Current-Affairs Buff.
 
 ### About Me:
-+ Final-Year undergrad at Walchand College of Engineering Sangli 🏫
++ Associate Software Engineer, Siemens DISW 🏫
++ Pursuing M.Tech in Artificial Intelligence and Machine Learning 🧠
 + Full-Stack Developer - Webapps and Apps 🌐
 
 <img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="220">
